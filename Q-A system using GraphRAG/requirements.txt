@@ -1,0 +1,15 @@
+PyPDF2>=3.0.0
+pandas
+openai
+networkx
+chromadb>=0.3.0
+langchain>=0.1.0
+scikit-learn
+nltk
+sentence-transformers>=2.2.0
+tqdm
+python-dotenv
+matplotlib  # For graph visualization
+seaborn  # For advanced plotting
+fastapi  # For building the API
+uvicorn  # For running the FastAPI server
